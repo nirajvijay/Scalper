@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container1 {
+  margin-left: 0;
+  display: flex;
+}
+
+.sidebar {
+  background: #000;
+  color: #fff;
+  min-height: 100vh;
+  width: 200px;
+  position: fixed;
+  top: 0px;
+  transition: all ease 0.3s;
+}
+.top_section {
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+  transition: all ease 0.3s;
+}
+.logo {
+  font-size: 30px;
+  transition: all ease 0.3s;
+}
+.bars {
+  display: flex;
+  font-size: 25px;
+  margin-left: 50px;
+  transition: all ease 0.3s;
+}
+.link {
+  text-decoration: none;
+  margin-top: 20px;
+  display: flex;
+  color: #fff;
+  padding: 10px 15px;
+  gap: 20px;
+  transition: all 0.5s;
+}
+.link:hover {
+  background: lightskyblue;
+  color: #000;
+  transition: all 0.5s;
+}
+.active {
+  background: lightskyblue;
+  color: #000;
+}
+.icon,
+.link_text {
+  font-size: 20px;
+}
+.ico {
+  display: flex;
+  position: absolute;
+  bottom: 0vh;
+  scale: 150%;
+  margin-bottom: 20px;
+  width: 40px;
+  transition: all ease 0.3s;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  white-space: nowrap;
+  position: absolute;
+  bottom: 0vh;
+  margin-left: 3rem;
+  margin-bottom: 0.8rem;
+  transition: all ease 0.3s;
+}
+.stoplosspe-checkbox {
+  position: fixed;
+  top: 600px;
+  right: 250px;
+}

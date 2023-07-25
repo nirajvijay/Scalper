@@ -1,0 +1,192 @@
+.containercardsell {
+  position: absolute;
+  top: 60px;
+  left: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 200px;
+  width: 500px;
+
+  background-color: #f26d7d;
+}
+.sell {
+  position: absolute;
+  top: -40px;
+  left: 10px;
+  font-family: "Rowdies", sans-serif;
+  color: black;
+  font-size: 60px;
+  font-weight: bold;
+}
+.expirysell {
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  margin: 10px;
+}
+.labelsell {
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  font-size: 40px;
+  color: black;
+}
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.buybuttonpe {
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  background: rgb(0, 255, 0);
+
+  transition: 500ms ease-in-out;
+}
+.sellbuttonpe {
+  position: absolute;
+  top: 100px;
+  right: 15px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  background: red;
+
+  transition: 500ms ease-in-out;
+}
+
+button:hover {
+  background-color: #00fffb;
+}
+
+button:focus {
+  outline: none;
+}
+.labelstrikepe {
+  position: absolute;
+  top: 30%;
+}
+.strikepricepe {
+  position: absolute;
+  top: 36%;
+}
+.qtype {
+  position: absolute;
+  top: 150px;
+  left: 11px;
+}
+.strikepricepe-input-0 {
+  position: absolute;
+  top: 6px;
+  right: 70px;
+}
+.strikepricepe-input-1 {
+  position: absolute;
+  top: 6px;
+  right: 70px;
+}
+.strikepricepe-input-2 {
+  position: absolute;
+  top: 6px;
+  right: 70px;
+}
+.strikepricepe-label-0 {
+  position: relative;
+  top: 13px;
+  right: -85px;
+}
+.strikepricepe-label-1 {
+  position: relative;
+  top: 44px;
+  right: -30px;
+}
+.strikepricepe-label-2 {
+  position: relative;
+  top: 75px;
+  right: 30px;
+}
+.labellimitPE {
+  position: absolute;
+  top: 120px;
+  left: 100px;
+}
+#LIMITenterPE {
+  position: absolute;
+  width: 50px;
+  height: 23px;
+  top: 145px;
+  left: 100px;
+}
+#LIMITPE {
+  position: absolute;
+  top: 125px;
+  left: 155px;
+}
+.stoplosspe-checkbox {
+  position: absolute;
+  top: 520px;
+  right: 20px;
+}
+.stoploss-inputpe {
+  position: absolute;
+  top: 550px;
+  right: -10px;
+}
+#stoplossValuepe {
+  position: relative;
+  width: 50px;
+  right: 22px;
+}
+.SLPpe {
+  position: relative;
+  right: 20px;
+}
+.triggerstoplosspe {
+  padding: 1px 6px;
+  position: relative;
+  right: 25px; /* Adjust the padding to increase the button size */
+  font-size: 15px;
+}
+.pnlofpe {
+  position: absolute;
+  top: 470px;
+  right: 60px;
+}
+.ltppeview {
+  position: fixed;
+  top: 255px;
+  right: 235px;
+  font-size: 45px;
+  font-family: "Rowdies", sans-serif;
+  color: rgb(0, 0, 0);
+}
+.niftypebuyprice {
+  position: fixed;
+  font-family: fantasy;
+  font-size: large;
+  top: 650px;
+  right: 300px;
+}
+.optionpebuyprice {
+  position: fixed;
+  font-family: fantasy;
+  font-size: large;
+  top: 690px;
+  right: 300px;
+}

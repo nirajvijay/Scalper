@@ -1,0 +1,30 @@
+.order-book-table-container {
+  position: fixed;
+  left: 200px;
+  width: 90%;
+}
+
+.order-book-table {
+  width: 70%;
+  border-collapse: collapse;
+}
+
+.order-book-table th,
+.order-book-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.order-book-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: left;
+}
+
+.order-book-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.order-book-table tbody tr:hover {
+  background-color: #e9e9e9;
+}

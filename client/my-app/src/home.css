@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap");
+body {
+  height: 300px; /* Adjust the height as needed */
+
+  /* Add overflow-y property to show the vertical scroll bar */
+  overflow-y: auto;
+  overflow-x: hidden; /* 'auto' will only show the scrollbar when content overflows, 'scroll' will always show the scrollbar */
+}
+
+.ltp {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 200px;
+  right: 700px;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  width: 160px;
+  text-align: center;
+  margin: auto;
+  white-space: nowrap;
+  padding-bottom: 13px;
+}
+
+.ltpheading {
+  position: absolute;
+  top: 100px;
+  font-size: 40px;
+  font-family: "Rowdies", sans-serif;
+  color: rgb(0, 0, 0);
+}
+.ltpview {
+  position: absolute;
+  top: 140px;
+  font-size: 60px;
+  font-family: "Rowdies", sans-serif;
+  color: rgb(0, 0, 0);
+}
+.closepl {
+  position: absolute;
+  top: 500px;
+  right: 800px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: yellow;
+  border-width: 4px;
+  background-image: url("C:\Users\flubu\Desktop\CLOSE.png");
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: 6px;
+  padding-right: 20px;
+}
+.cancelor {
+  position: absolute;
+  top: 500px;
+  right: 600px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: yellow;
+  border-width: 4px;
+  background-image: url("C:\Users\flubu\Desktop\CLOSE.png");
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: 6px;
+  padding-right: 20px;
+}
+.bullpic {
+  width: 1000px;
+  height: 600px;
+  position: absolute;
+  left: -200px;
+  top: 110px;
+}
+.bearpic {
+  width: 1000px;
+  height: 600px;
+  position: absolute;
+  left: 750px;
+  top: 120px;
+}
+.pushing {
+  position: absolute;
+  top: 460px;
+  left: 190px;
+  font-size: 50px;
+  font-family: "Rowdies", sans-serif;
+  color: rgb(0, 0, 0);
+}
+.pulling {
+  position: absolute;
+  top: 460px;
+  right: 170px;
+  font-size: 50px;
+  font-family: "Rowdies", sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+.generate_access {
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  top: 12px;
+  background: #4285f4;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 20px 30px;
+  border-radius: 5px;
+  box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  -webkit-transition: all ease-in-out 300ms;
+  transition: all ease-in-out 300ms;
+}

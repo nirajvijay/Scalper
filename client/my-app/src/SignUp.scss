@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600&display=swap");
+body {
+  font-family: "Belanosima", sans-serif;
+  background-color: #ffffff;
+}
+.form-input {
+  overflow: hidden;
+  margin-bottom: 0;
+  border: 1px solid #efefef;
+  padding: 15px 15px;
+  border-bottom: none;
+  position: relative;
+}
+.form-button {
+  grid-column: 1 / -1;
+}
