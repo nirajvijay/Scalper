@@ -37,7 +37,7 @@ export default function Buycard({ lastTradedPrice }) {
   const [startRealTimePnlCalc, setStartRealTimePnlCalc] = useState(false);
 
   /* for OrderBook */
-  console.log("hi");
+
   /* getting the thursday dates */
   function getNextThursdays() {
     const today = new Date();
@@ -256,42 +256,6 @@ export default function Buycard({ lastTradedPrice }) {
     calculateNiftyCEStoplossPrice();
   };
 
-  /* calculating trailing stoplos price */
-
-  const calculatedNiftyTrailingCEstoploss = () => {
-    if (
-      optionsbuyprice !== null &&
-      cestoplossChecked &&
-      trailingcestoplossChecked
-    ) {
-      toast.success("entered trailing");
-      if (
-        lasttradedpriceforce - initialpricefortrail ===
-        trailcestoplossValue
-      ) {
-        toast.success("et");
-        const calculatedTrailingNiftyCEStoplossPrice = cestoplossValue;
-        setTrailingNIftyCEstoplossvalue(
-          calculatedTrailingNiftyCEStoplossPrice + trailcestoplossValue
-        );
-        setInitialPriceForTrail(initialpricefortrail + trailcestoplossValue);
-      }
-    }
-  };
-
-  const handleTrailingCeStoplossChange = (event) => {
-    setTrailingCeStoplossChecked(event.target.checked);
-  };
-  const handleClickTrailCe = () => {
-    calculatedNiftyTrailingCEstoploss();
-  };
-  const handleTrailCeStoplossValueChange = (event) => {
-    setTrailCeStoplossValue(event.target.value);
-  };
-
-  useEffect(() => {
-    calculatedNiftyTrailingCEstoploss(optionsbuyprice);
-  }, [lasttradedpriceforce, initialpricefortrail]);
   /* realtime pnl calculation */
 
   const calculatePnl = (optionsbuyprice) => {
@@ -513,9 +477,7 @@ export default function Buycard({ lastTradedPrice }) {
       </div>
       {cestoplossChecked && (
         <div className="stoploss-inputce">
-          <label htmlFor="stoplossValuece" className="SLPce">
-            PRICE
-          </label>
+          <label htmlFor="stoplossValuece" className="SLPce"></label>
           <input
             type="number"
             id="stoplossValuece"
@@ -525,33 +487,6 @@ export default function Buycard({ lastTradedPrice }) {
           <button className="triggerstoplossce" onClick={handleClickCe}>
             SL
           </button>
-          <div className="trailingstoplossce-checkbox">
-            <input
-              type="checkbox"
-              id="trailingstoplossce"
-              checked={trailingcestoplossChecked}
-              onChange={handleTrailingCeStoplossChange}
-            />
-            <label htmlFor="trailingstoplossce" className="trailings">
-              AUTO-TR
-            </label>
-          </div>
-          {trailingcestoplossChecked && (
-            <div className="tralingstoploss-inputce">
-              <input
-                type="number"
-                id="trailstoplossValuece"
-                value={trailcestoplossValue}
-                onChange={handleTrailCeStoplossValueChange}
-              />
-              <button
-                className="trailtriggerstoplossce"
-                onClick={handleClickTrailCe}
-              >
-                T
-              </button>
-            </div>
-          )}
         </div>
       )}
       {/* <h1 className="niftybuyprice">{niftybuyprice}</h1> */}
@@ -565,8 +500,20 @@ export default function Buycard({ lastTradedPrice }) {
       </label>
       <input type="checkbox" id="LIMIT" name="LIMIT"></input>
       <input type="number" id="LIMITenter" name="LIMIT"></input>
-      <h1 className="niftybuyprice">NIFTYBUY:{niftybuyprice}</h1>
-      <h1 className="optionsbuyprice">OPTIONSBUY:{optionsbuyprice}</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>NIFTYBUY</th>
+            <th>OPTIONSBUY</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{niftybuyprice}</td>
+            <td>{optionsbuyprice}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   );
 }
