@@ -1,0 +1,90 @@
+
+1689708088820 :: place_order ::  :: 1689708088997 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689708165573 :: place_order ::  :: 1689708165802 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689708209030 :: place_order ::  :: 1689708209172 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689708560268 :: place_order ::  :: 1689708561489 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689708588420 :: place_order ::  :: 1689708588554 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689708851988 :: place_order ::  :: 1689708852138 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689744082385 :: place_order ::  :: 1689744082810 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 4,721.29 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689744248303 :: exit_positions :: {} :: 1689744248705 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689744349493 :: place_order ::  :: 1689744349853 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900153058', 'id': '23071900153058'}
+
+1689744357707 :: exit_positions :: {} :: 1689744359150 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689744441550 :: place_order ::  :: 1689744441824 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900154658', 'id': '23071900154658'}
+
+1689744448681 :: place_order ::  :: 1689744448992 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900154894', 'id': '23071900154894'}
+
+1689744465490 :: place_order ::  :: 1689744465761 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900155513', 'id': '23071900155513'}
+
+1689744561547 :: place_order ::  :: 1689744561849 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900158239', 'id': '23071900158239'}
+
+1689744606049 :: place_order ::  :: 1689744606421 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900159373', 'id': '23071900159373'}
+
+1689744612598 :: place_order ::  :: 1689744612900 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900159504', 'id': '23071900159504'}
+
+1689744619430 :: place_order ::  :: 1689744619752 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900159614', 'id': '23071900159614'}
+
+1689744621284 :: place_order ::  :: 1689744621518 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900159641', 'id': '23071900159641'}
+
+1689744636845 :: exit_positions :: {} :: 1689744638191 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689746239658 :: place_order ::  :: 1689746239938 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900194222', 'id': '23071900194222'}
+
+1689746252673 :: exit_positions :: {} :: 1689746253293 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689746586903 :: place_order ::  :: 1689746587224 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900200568', 'id': '23071900200568'}
+
+1689746886628 :: place_order ::  :: 1689746886874 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900205569', 'id': '23071900205569'}
+
+1689746903281 :: place_order ::  :: 1689746903634 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900205761', 'id': '23071900205761'}
+
+1689746936589 :: exit_positions :: {} :: 1689746937606 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689747110150 :: place_order ::  :: 1689747111772 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1689747212683 :: place_order ::  :: 1689747212991 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 4,154.19 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689747217823 :: place_order ::  :: 1689747217976 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1689747456399 :: place_order ::  :: 1689747457925 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1689747620019 :: place_order ::  :: 1689747621754 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1689747787177 :: place_order ::  :: 1689747787454 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900216970', 'id': '23071900216970'}
+
+1689747791824 :: place_order ::  :: 1689747791961 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1689747924773 :: place_order ::  :: 1689747924941 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1689747965245 :: place_order ::  :: 1689747965505 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,243.99 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689748059781 :: place_order ::  :: 1689748060124 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,341.49 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689748122977 :: place_order ::  :: 1689748123322 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,478.99 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689748151098 :: place_order ::  :: 1689748152682 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1689748237190 :: place_order ::  :: 1689748237518 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,266.49 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689757788938 :: place_order ::  :: 1689757789215 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,076.49 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689757818206 :: exit_positions :: {} :: 1689757818549 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689757949224 :: place_order ::  :: 1689757949580 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900377681', 'id': '23071900377681'}
+
+1689757998645 :: place_order ::  :: 1689757998914 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 2,611.28 Available:INR 996.21 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1689758010749 :: exit_positions :: {} :: 1689758011765 :: {'s': 'error', 'code': -96, 'message': 'An unexpected error occurred. Please contact support.'}
+
+1689758023923 :: place_order ::  :: 1689758024172 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900379263', 'id': '23071900379263'}
+
+1689758063259 :: place_order ::  :: 1689758063588 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071900379729', 'id': '23071900379729'}

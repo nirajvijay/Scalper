@@ -1,0 +1,396 @@
+
+1689052534000 :: place_order ::  :: 1689052534388 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689052538734 :: place_order ::  :: 1689052539098 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1689061337719 :: place_order ::  :: 1689061338178 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061343605 :: place_order ::  :: 1689061343913 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061352967 :: place_order ::  :: 1689061353335 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061359700 :: place_order ::  :: 1689061360091 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061363691 :: place_order ::  :: 1689061363984 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061365244 :: place_order ::  :: 1689061365623 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061376142 :: place_order ::  :: 1689061376476 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061388425 :: place_order ::  :: 1689061388765 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061392141 :: place_order ::  :: 1689061392451 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061413787 :: place_order ::  :: 1689061414161 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061416137 :: place_order ::  :: 1689061416517 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061417979 :: place_order ::  :: 1689061418368 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061419788 :: place_order ::  :: 1689061420100 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061429119 :: place_order ::  :: 1689061429522 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061431774 :: place_order ::  :: 1689061432082 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061436652 :: place_order ::  :: 1689061436995 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061444311 :: place_order ::  :: 1689061444574 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061445786 :: place_order ::  :: 1689061446008 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061446318 :: place_order ::  :: 1689061446622 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061446596 :: place_order ::  :: 1689061446930 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061446859 :: place_order ::  :: 1689061447237 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061447137 :: place_order ::  :: 1689061447543 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061447408 :: place_order ::  :: 1689061447748 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061447678 :: place_order ::  :: 1689061448062 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061447932 :: place_order ::  :: 1689061448259 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061448202 :: place_order ::  :: 1689061448568 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061448482 :: place_order ::  :: 1689061448772 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061448742 :: place_order ::  :: 1689061449080 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061449016 :: place_order ::  :: 1689061449387 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061450341 :: place_order ::  :: 1689061450637 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061628112 :: place_order ::  :: 1689061628488 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061631665 :: place_order ::  :: 1689061631971 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061634990 :: place_order ::  :: 1689061635359 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061638802 :: place_order ::  :: 1689061639052 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061640692 :: place_order ::  :: 1689061640984 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689061642298 :: place_order ::  :: 1689061642630 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062029878 :: place_order ::  :: 1689062030212 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062031460 :: place_order ::  :: 1689062031748 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062032203 :: place_order ::  :: 1689062032569 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062032464 :: place_order ::  :: 1689062032773 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062032688 :: place_order ::  :: 1689062032984 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062033029 :: place_order ::  :: 1689062033387 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062033276 :: place_order ::  :: 1689062033591 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062033403 :: place_order ::  :: 1689062033694 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062033627 :: place_order ::  :: 1689062034002 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062033850 :: place_order ::  :: 1689062034205 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062034255 :: place_order ::  :: 1689062034615 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062034524 :: place_order ::  :: 1689062034820 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062034758 :: place_order ::  :: 1689062035127 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062034981 :: place_order ::  :: 1689062035332 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062035221 :: place_order ::  :: 1689062035537 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062035620 :: place_order ::  :: 1689062035946 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062035771 :: place_order ::  :: 1689062036151 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062036372 :: place_order ::  :: 1689062036664 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062036034 :: place_order ::  :: 1689062036767 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062036708 :: place_order ::  :: 1689062037074 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062036604 :: place_order ::  :: 1689062037075 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062036927 :: place_order ::  :: 1689062037278 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062037175 :: place_order ::  :: 1689062037583 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062037521 :: place_order ::  :: 1689062037892 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062037631 :: place_order ::  :: 1689062037994 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062040711 :: place_order ::  :: 1689062041680 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062041756 :: place_order ::  :: 1689062042090 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062042541 :: place_order ::  :: 1689062042909 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062043347 :: place_order ::  :: 1689062043729 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062044180 :: place_order ::  :: 1689062044650 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062045609 :: place_order ::  :: 1689062045879 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062047625 :: place_order ::  :: 1689062047928 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062049293 :: place_order ::  :: 1689062049668 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062053360 :: place_order ::  :: 1689062053662 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062054841 :: place_order ::  :: 1689062055204 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062055490 :: place_order ::  :: 1689062055813 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062055836 :: place_order ::  :: 1689062056222 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062056086 :: place_order ::  :: 1689062056427 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062056470 :: place_order ::  :: 1689062056836 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062058051 :: place_order ::  :: 1689062058373 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062060202 :: place_order ::  :: 1689062060523 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062061281 :: place_order ::  :: 1689062061650 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062061572 :: place_order ::  :: 1689062061957 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062061908 :: place_order ::  :: 1689062062265 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062061990 :: place_order ::  :: 1689062062266 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062062178 :: place_order ::  :: 1689062062467 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062062361 :: place_order ::  :: 1689062062674 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062062548 :: place_order ::  :: 1689062062878 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062062868 :: place_order ::  :: 1689062063083 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062062699 :: place_order ::  :: 1689062063186 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063029 :: place_order ::  :: 1689062063395 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063195 :: place_order ::  :: 1689062063493 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063364 :: place_order ::  :: 1689062063697 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063624 :: place_order ::  :: 1689062064027 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063778 :: place_order ::  :: 1689062064107 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063830 :: place_order ::  :: 1689062064210 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062063988 :: place_order ::  :: 1689062064311 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064142 :: place_order ::  :: 1689062064518 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064316 :: place_order ::  :: 1689062064619 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064499 :: place_order ::  :: 1689062064824 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064640 :: place_order ::  :: 1689062065030 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064811 :: place_order ::  :: 1689062065131 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062064955 :: place_order ::  :: 1689062065335 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065112 :: place_order ::  :: 1689062065438 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065392 :: place_order ::  :: 1689062065746 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065423 :: place_order ::  :: 1689062065747 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065574 :: place_order ::  :: 1689062065848 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065806 :: place_order ::  :: 1689062066156 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062065951 :: place_order ::  :: 1689062066257 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062066251 :: place_order ::  :: 1689062066565 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062066197 :: place_order ::  :: 1689062066567 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062066496 :: place_order ::  :: 1689062066770 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062066667 :: place_order ::  :: 1689062066975 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062066784 :: place_order ::  :: 1689062067076 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062098506 :: place_order ::  :: 1689062098822 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062099530 :: place_order ::  :: 1689062099846 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062100110 :: place_order ::  :: 1689062100461 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062100841 :: place_order ::  :: 1689062101177 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062101274 :: place_order ::  :: 1689062101586 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062101524 :: place_order ::  :: 1689062101894 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062101724 :: place_order ::  :: 1689062102098 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062101987 :: place_order ::  :: 1689062102304 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062102070 :: place_order ::  :: 1689062102405 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062102224 :: place_order ::  :: 1689062102610 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062103808 :: place_order ::  :: 1689062104147 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062104167 :: place_order ::  :: 1689062104555 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062104657 :: place_order ::  :: 1689062104964 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062105559 :: place_order ::  :: 1689062105886 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062106490 :: place_order ::  :: 1689062106809 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062107337 :: place_order ::  :: 1689062107627 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062108279 :: place_order ::  :: 1689062108652 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062109134 :: place_order ::  :: 1689062109471 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062112159 :: place_order ::  :: 1689062112544 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062351365 :: place_order ::  :: 1689062351755 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062352697 :: place_order ::  :: 1689062353087 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062354493 :: place_order ::  :: 1689062354827 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062356126 :: place_order ::  :: 1689062356465 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062358010 :: place_order ::  :: 1689062358515 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062360381 :: place_order ::  :: 1689062360767 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062361355 :: place_order ::  :: 1689062361688 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689062362958 :: place_order ::  :: 1689062363329 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065599178 :: place_order ::  :: 1689065599549 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065605184 :: place_order ::  :: 1689065605593 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065612630 :: place_order ::  :: 1689065612964 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065616105 :: place_order ::  :: 1689065616345 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065840938 :: place_order ::  :: 1689065841322 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065841421 :: place_order ::  :: 1689065841645 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689065842490 :: place_order ::  :: 1689065842757 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689066179343 :: place_order ::  :: 1689066179662 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689066180147 :: place_order ::  :: 1689066180491 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689066180569 :: place_order ::  :: 1689066180891 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689068306755 :: place_order ::  :: 1689068306901 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689068908269 :: place_order ::  :: 1689068908416 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689068978804 :: place_order ::  :: 1689068978945 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689068986796 :: place_order ::  :: 1689068986907 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069004273 :: place_order ::  :: 1689069004404 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069014555 :: place_order ::  :: 1689069014694 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069020524 :: place_order ::  :: 1689069020664 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069071648 :: place_order ::  :: 1689069071827 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069360351 :: place_order ::  :: 1689069360494 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069365249 :: place_order ::  :: 1689069365373 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069369467 :: place_order ::  :: 1689069369596 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069455955 :: place_order ::  :: 1689069456259 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069464550 :: place_order ::  :: 1689069464666 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069495917 :: place_order ::  :: 1689069496052 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689069723027 :: place_order ::  :: 1689069723179 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689070244115 :: place_order ::  :: 1689070244290 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689070445363 :: place_order ::  :: 1689070445521 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689070610241 :: place_order ::  :: 1689070610392 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689071990426 :: place_order ::  :: 1689071990570 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689071993229 :: place_order ::  :: 1689071993338 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689071995734 :: place_order ::  :: 1689071995850 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689072006903 :: place_order ::  :: 1689072007028 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689072479240 :: place_order ::  :: 1689072479428 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689073457663 :: place_order ::  :: 1689073457819 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689074708434 :: place_order ::  :: 1689074708586 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689074983290 :: place_order ::  :: 1689074983436 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689075140948 :: place_order ::  :: 1689075141076 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689095207439 :: place_order ::  :: 1689095207591 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689095545781 :: place_order ::  :: 1689095545927 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689095555023 :: place_order ::  :: 1689095555164 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689096253091 :: place_order ::  :: 1689096253231 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689096368678 :: place_order ::  :: 1689096368827 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689096563853 :: place_order ::  :: 1689096563998 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689096727398 :: place_order ::  :: 1689096727535 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689096810492 :: place_order ::  :: 1689096810647 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689097574259 :: place_order ::  :: 1689097574412 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689097691254 :: place_order ::  :: 1689097691411 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689097802981 :: place_order ::  :: 1689097803144 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689097835958 :: place_order ::  :: 1689097836145 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689098146965 :: place_order ::  :: 1689098147113 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689098162137 :: place_order ::  :: 1689098162273 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689098189496 :: place_order ::  :: 1689098189624 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689098251635 :: place_order ::  :: 1689098251792 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689098404675 :: place_order ::  :: 1689098404827 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689099159831 :: place_order ::  :: 1689099160007 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689099412597 :: place_order ::  :: 1689099412750 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689099465186 :: place_order ::  :: 1689099465335 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689099480612 :: place_order ::  :: 1689099480747 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1689099494939 :: place_order ::  :: 1689099495076 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}

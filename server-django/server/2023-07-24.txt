@@ -1,0 +1,154 @@
+
+1690174075803 :: place_order ::  :: 1690174077397 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690174094508 :: place_order ::  :: 1690174096115 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690174122674 :: place_order ::  :: 1690174124239 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690174133338 :: place_order ::  :: 1690174134942 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690174173309 :: place_order ::  :: 1690174174897 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690178045275 :: place_order ::  :: 1690178045633 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400159326', 'id': '23072400159326'}
+
+1690178228508 :: place_order ::  :: 1690178228934 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400161847', 'id': '23072400161847'}
+
+1690178345400 :: place_order ::  :: 1690178345760 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400163059', 'id': '23072400163059'}
+
+1690178470947 :: place_order ::  :: 1690178471257 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400165318', 'id': '23072400165318'}
+
+1690178678874 :: place_order ::  :: 1690178679210 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400168267', 'id': '23072400168267'}
+
+1690178953827 :: place_order ::  :: 1690178954188 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400172289', 'id': '23072400172289'}
+
+1690179164049 :: place_order ::  :: 1690179164411 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,09,906.06 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179248928 :: place_order ::  :: 1690179249360 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,09,905.95 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179293776 :: place_order ::  :: 1690179294906 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,09,904.68 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179340103 :: place_order ::  :: 1690179340294 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690179463640 :: place_order ::  :: 1690179464032 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,05,532.79 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179471840 :: place_order ::  :: 1690179472120 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,05,535.93 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179475367 :: place_order ::  :: 1690179475685 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 1,05,535.49 Available:INR 10,860.63 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1690179544575 :: place_order ::  :: 1690179544797 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690179550656 :: place_order ::  :: 1690179550834 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690179608205 :: place_order ::  :: 1690179608408 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690179621057 :: place_order ::  :: 1690179621219 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690179697422 :: place_order ::  :: 1690179697629 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690179699535 :: place_order ::  :: 1690179699677 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690179709274 :: place_order ::  :: 1690179709451 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690179769389 :: place_order ::  :: 1690179769583 :: {'s': 'error', 'code': -310, 'message': 'Please provide a valid order quantity', 'id': ''}
+
+1690179781355 :: place_order ::  :: 1690179781533 :: {'s': 'error', 'code': -310, 'message': 'Please provide a valid order quantity', 'id': ''}
+
+1690179787309 :: place_order ::  :: 1690179787556 :: {'s': 'error', 'code': -310, 'message': 'Please provide a valid order quantity', 'id': ''}
+
+1690179996307 :: place_order ::  :: 1690179996605 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400201168', 'id': '23072400201168'}
+
+1690180054051 :: place_order ::  :: 1690180054228 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690180069311 :: exit_positions :: {} :: 1690180070620 :: {'s': 'ok', 'code': 1101, 'message': 'Position NSE:NIFTY23JUL19750CE-INTRADAY is closed.'}
+
+1690182061675 :: place_order ::  :: 1690182061837 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690182244307 :: place_order ::  :: 1690182244665 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400237909', 'id': '23072400237909'}
+
+1690182302292 :: place_order ::  :: 1690182302466 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690182334066 :: exit_positions :: {} :: 1690182334881 :: {'s': 'ok', 'code': 1101, 'message': 'Position NSE:NIFTY23JUL19800CE-INTRADAY is closed.'}
+
+1690182369294 :: place_order ::  :: 1690182369462 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690182515501 :: place_order ::  :: 1690182515778 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400241564', 'id': '23072400241564'}
+
+1690182599161 :: place_order ::  :: 1690182599317 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690182721251 :: place_order ::  :: 1690182721402 :: {'s': 'error', 'code': -310, 'message': 'Please provide a valid order quantity', 'id': ''}
+
+1690182737359 :: place_order ::  :: 1690182737499 :: {'s': 'error', 'code': -310, 'message': 'Please provide a valid order quantity', 'id': ''}
+
+1690183692599 :: place_order ::  :: 1690183692853 :: {'s': 'error', 'code': -99, 'message': 'Something went wrong. Please contact support', 'id': ''}
+
+1690183744413 :: place_order ::  :: 1690183744570 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690184061674 :: place_order ::  :: 1690184061992 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400266038', 'id': '23072400266038'}
+
+1690184166758 :: place_order ::  :: 1690184166927 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690184175317 :: exit_positions :: {} :: 1690184175843 :: {'s': 'ok', 'code': 1101, 'message': 'Position NSE:NIFTY23JUL19750PE-INTRADAY is closed.'}
+
+1690184826418 :: place_order ::  :: 1690184826594 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690184926395 :: place_order ::  :: 1690184926703 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400281366', 'id': '23072400281366'}
+
+1690184966151 :: place_order ::  :: 1690184966357 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690184975530 :: place_order ::  :: 1690184975670 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690184975756 :: place_order ::  :: 1690184975882 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690184975861 :: place_order ::  :: 1690184975995 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690184976064 :: place_order ::  :: 1690184976192 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1690185051364 :: place_order ::  :: 1690185051513 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185058059 :: place_order ::  :: 1690185058220 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185072645 :: place_order ::  :: 1690185072793 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185074991 :: place_order ::  :: 1690185075123 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185166177 :: place_order ::  :: 1690185166341 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185191870 :: place_order ::  :: 1690185192011 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185827338 :: place_order ::  :: 1690185827491 :: {'s': 'error', 'code': -392, 'message': 'Price should be in multiples of tick size.', 'id': ''}
+
+1690185846729 :: place_order ::  :: 1690185847029 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400294359', 'id': '23072400294359'}
+
+1690185874325 :: place_order ::  :: 1690185874594 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400294654', 'id': '23072400294654'}
+
+1690185911337 :: place_order ::  :: 1690185911668 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400295014', 'id': '23072400295014'}
+
+1690185944668 :: place_order ::  :: 1690185945247 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400295410', 'id': '23072400295410'}
+
+1690185988187 :: place_order ::  :: 1690185988511 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23072400295844', 'id': '23072400295844'}
+
+1690186857456 :: place_order ::  :: 1690186857630 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187171457 :: place_order ::  :: 1690187173183 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690187180545 :: place_order ::  :: 1690187180661 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187276607 :: place_order ::  :: 1690187276774 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187638338 :: place_order ::  :: 1690187638497 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187664713 :: place_order ::  :: 1690187664851 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187696272 :: place_order ::  :: 1690187696484 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187704004 :: place_order ::  :: 1690187704161 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187705740 :: place_order ::  :: 1690187705881 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187706566 :: place_order ::  :: 1690187706693 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690187709357 :: place_order ::  :: 1690187709492 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690191061292 :: place_order ::  :: 1690191061445 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1690191098076 :: place_order ::  :: 1690191098244 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}

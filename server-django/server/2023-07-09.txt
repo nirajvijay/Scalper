@@ -1,0 +1,6 @@
+
+1688923135837 :: place_order ::  :: 1688923136534 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688923271250 :: place_order ::  :: 1688923271909 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688927244688 :: place_order ::  :: 1688927245227 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}

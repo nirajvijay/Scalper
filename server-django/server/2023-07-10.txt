@@ -1,0 +1,110 @@
+
+1688934917328 :: place_order ::  :: 1688934918129 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688935159169 :: place_order ::  :: 1688935159601 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688935163255 :: place_order ::  :: 1688935163589 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937005066 :: place_order ::  :: 1688937005510 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937007114 :: place_order ::  :: 1688937007565 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937009060 :: place_order ::  :: 1688937009499 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937010560 :: place_order ::  :: 1688937011035 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937279296 :: place_order ::  :: 1688937279844 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937284080 :: place_order ::  :: 1688937284552 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937286891 :: place_order ::  :: 1688937287228 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937384359 :: place_order ::  :: 1688937385009 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937385541 :: place_order ::  :: 1688937386031 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937390089 :: place_order ::  :: 1688937390539 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937390927 :: place_order ::  :: 1688937391459 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937464957 :: place_order ::  :: 1688937465497 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937466455 :: place_order ::  :: 1688937466932 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937467819 :: place_order ::  :: 1688937468267 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688937470768 :: place_order ::  :: 1688937471131 :: {'s': 'error', 'code': -99, 'message': "RED:Block Type:ALL Reason:We've detected you are using an older version, and you can't place orders from here. Download FYERS 2.0 from the Play/App store to continue placing orders.[ FYERS_RISK ]", 'id': ''}
+
+1688961228130 :: place_order ::  :: 1688961228633 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1688966357069 :: place_order ::  :: 1688966357466 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1688968592187 :: place_order ::  :: 1688968592503 :: {'s': 'error', 'code': -8, 'message': 'Your token has expired. Please generate a token', 'id': ''}
+
+1688968992523 :: place_order ::  :: 1688968992896 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1688969399492 :: place_order ::  :: 1688969399844 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user', 'id': ''}
+
+1688969570234 :: place_order ::  :: 1688969570757 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.66 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688970270754 :: place_order ::  :: 1688970271188 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.72 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688970367207 :: place_order ::  :: 1688970367762 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.71 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688970368631 :: place_order ::  :: 1688970369096 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.70 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688970370589 :: place_order ::  :: 1688970371132 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.71 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688970372066 :: place_order ::  :: 1688970372464 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.71 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688971277186 :: place_order ::  :: 1688971277703 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 237.20 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688971283819 :: place_order ::  :: 1688971284360 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 474.44 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688973364742 :: place_order ::  :: 1688973366717 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1688973379604 :: place_order ::  :: 1688973381360 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1688973616776 :: place_order ::  :: 1688973618525 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1688974182551 :: place_order ::  :: 1688974182867 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1688974371356 :: place_order ::  :: 1688974371804 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1688974376470 :: place_order ::  :: 1688974376827 :: {'s': 'error', 'code': -391, 'message': 'Order Quantity should be in multiples of lot size.', 'id': ''}
+
+1688974585787 :: place_order ::  :: 1688974586232 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 3,415.00 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688975470054 :: place_order ::  :: 1688975470682 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 3,662.50 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688975515437 :: place_order ::  :: 1688975515951 :: {'s': 'error', 'code': -99, 'message': 'RED:Margin Shortfall:INR 118.87 Available:INR 0.00 for C-XN09067 [FYERS_RISK_CUG]', 'id': ''}
+
+1688976240715 :: place_order ::  :: 1688976241262 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071000292318', 'id': '23071000292318'}
+
+1688976264256 :: place_order ::  :: 1688976264711 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071000292590', 'id': '23071000292590'}
+
+1688981536140 :: place_order ::  :: 1688981536811 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071000368486', 'id': '23071000368486'}
+
+1688981549127 :: place_order ::  :: 1688981549611 :: {'s': 'ok', 'code': 1101, 'message': 'Order Submitted Successfully. Your Order Ref. No. 23071000368759', 'id': '23071000368759'}
+
+1688984019395 :: place_order ::  :: 1688984019974 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1688984026545 :: place_order ::  :: 1688984027039 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1688984028894 :: place_order ::  :: 1688984029292 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1688984029989 :: place_order ::  :: 1688984030521 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011454092 :: place_order ::  :: 1689011454442 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011459726 :: place_order ::  :: 1689011459977 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011460637 :: place_order ::  :: 1689011460961 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011461444 :: place_order ::  :: 1689011461718 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011474905 :: place_order ::  :: 1689011475201 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011476548 :: place_order ::  :: 1689011476830 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}
+
+1689011479146 :: place_order ::  :: 1689011479415 :: {'s': 'error', 'code': -99, 'message': "RED:'MIS' Orders are disallowed after system square off", 'id': ''}

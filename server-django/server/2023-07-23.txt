@@ -1,0 +1,6 @@
+
+1690134932538 :: place_order ::  :: 1690134934091 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690134937713 :: place_order ::  :: 1690134939126 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
+
+1690135002419 :: place_order ::  :: 1690135003869 :: {'s': 'error', 'code': -300, 'message': 'Orders are not allowed in this symbol.', 'id': ''}
