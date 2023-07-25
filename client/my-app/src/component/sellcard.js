@@ -256,41 +256,6 @@ export default function Sellcard({ lastTradedPrice }) {
   const handleClickCe = () => {
     calculateNiftyCEStoplossPrice();
   };
-  /* calculating trailing stoplos price */
-
-  const calculatedNiftyTrailingCEstoploss = () => {
-    if (
-      optionsbuyprice !== null &&
-      stoplossChecked &&
-      trailingcestoplossChecked
-    ) {
-      if (
-        lasttradedpriceforce - initialpricefortrail ===
-        trailcestoplossValue
-      ) {
-        const calculatedTrailingNiftyCEStoplossPrice =
-          optionsbuyprice - stoplossValue;
-        setTrailingNIftyCEstoplossvalue(
-          calculatedTrailingNiftyCEStoplossPrice + trailcestoplossValue
-        );
-        setInitialPriceForTrail(initialpricefortrail + trailcestoplossValue);
-      }
-    }
-  };
-
-  const handleTrailingCeStoplossChange = (event) => {
-    setTrailingCeStoplossChecked(event.target.checked);
-  };
-  const handleClickTrailCe = () => {
-    calculatedNiftyTrailingCEstoploss();
-  };
-  const handleTrailCeStoplossValueChange = (event) => {
-    setTrailCeStoplossValue(event.target.checked);
-  };
-
-  useEffect(() => {
-    calculatedNiftyTrailingCEstoploss(optionsbuyprice);
-  }, [lasttradedpriceforce, initialpricefortrail]);
 
   /* realtime pnl calculation */
 
@@ -465,46 +430,17 @@ export default function Sellcard({ lastTradedPrice }) {
         </label>
       </div>
       {cestoplossChecked && (
-        <div className="stoploss-inputpe">
-          <label htmlFor="stoplossValuepe" className="SLPpe">
-            PRICE
-          </label>
+        <div className="stoploss-inputniftype">
+          <label htmlFor="stoplossValueniftype" className="SLPpe"></label>
           <input
             type="number"
-            id="stoplossValuepe"
+            id="stoplossValueniftype"
             value={cestoplossValue}
             onChange={handleCeStoplossValueChange}
           />
-          <button className="triggerstoplosspe" onClick={handleClickCe}>
+          <button className="triggerstoplossniftype" onClick={handleClickCe}>
             SL
           </button>
-          <div className="trailingstoplosspe-checkbox">
-            <input
-              type="checkbox"
-              id="trailingstoplossce"
-              checked={trailingcestoplossChecked}
-              onChange={handleTrailingCeStoplossChange}
-            />
-            <label htmlFor="trailingstoplossce" className="trailings">
-              AUTO-TR
-            </label>
-          </div>
-          {trailingcestoplossChecked && (
-            <div className="tralingstoploss-inputce">
-              <input
-                type="number"
-                id="trailstoplossValuece"
-                value={trailcestoplossValue}
-                onChange={handleTrailCeStoplossValueChange}
-              />
-              <button
-                className="trailtriggerstoplossce"
-                onClick={handleClickTrailCe}
-              >
-                T
-              </button>
-            </div>
-          )}
         </div>
       )}
       <button className="sellbuttonpe noselect" onClick={handleSellBtClick}>
@@ -516,8 +452,20 @@ export default function Sellcard({ lastTradedPrice }) {
       </label>
       <input type="checkbox" id="LIMITPE" name="LIMITPE"></input>
       <input type="number" id="LIMITenterPE" name="LIMITPE"></input>
-      <h1 className="niftypebuyprice">NIFTYBUY:{niftybuyprice}</h1>
-      <h1 className="optionpebuyprice">OPTIONSBUY:{optionsbuyprice}</h1>
+      <table className="prices">
+        <thead>
+          <tr>
+            <th>NIFTYBUY</th>
+            <th>OPTIONSBUY</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{niftybuyprice}</td>
+            <td>{optionsbuyprice}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   );
 }

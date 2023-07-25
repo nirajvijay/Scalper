@@ -143,24 +143,25 @@ button:focus {
   top: 520px;
   right: 20px;
 }
-.stoploss-inputpe {
+.stoploss-inputniftype {
   position: absolute;
-  top: 550px;
-  right: -10px;
+  top: 520px;
+  left: 520px;
 }
-#stoplossValuepe {
+#stoplossValueniftype {
   position: relative;
-  width: 50px;
+  width: 60px;
   right: 22px;
 }
 .SLPpe {
   position: relative;
   right: 20px;
 }
-.triggerstoplosspe {
+.triggerstoplossniftype {
   padding: 1px 6px;
   position: relative;
-  right: 25px; /* Adjust the padding to increase the button size */
+  top: -28px;
+  right: -40px; /* Adjust the padding to increase the button size */
   font-size: 15px;
 }
 .pnlofpe {
@@ -176,17 +177,8 @@ button:focus {
   font-family: "Rowdies", sans-serif;
   color: rgb(0, 0, 0);
 }
-.niftypebuyprice {
-  position: fixed;
-  font-family: fantasy;
-  font-size: large;
-  top: 650px;
-  right: 300px;
-}
-.optionpebuyprice {
-  position: fixed;
-  font-family: fantasy;
-  font-size: large;
-  top: 690px;
-  right: 300px;
+
+.prices {
+  position: absolute;
+  left: 300px;
 }
