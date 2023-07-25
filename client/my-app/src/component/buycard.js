@@ -477,10 +477,10 @@ export default function Buycard({ lastTradedPrice }) {
       </div>
       {cestoplossChecked && (
         <div className="stoploss-inputce">
-          <label htmlFor="stoplossValuece" className="SLPce"></label>
+          <label htmlFor="stoplossValueniftyce" className="SLPce"></label>
           <input
             type="number"
-            id="stoplossValuece"
+            id="stoplossValueniftyce"
             value={cestoplossValue}
             onChange={handleCeStoplossValueChange}
           />
