@@ -6,5 +6,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('serverapp.urls')),
     path('api/', include('accounts.urls')),
+    path('api/', include('finnifty.urls')),
+    
     re_path(r'ws/', include(websocket_urlpatterns)),
 ]

@@ -43,6 +43,7 @@ AUTH_USER_MODEL = 'auth.User'
 INSTALLED_APPS = [
     "daphne",
     'serverapp',
+    'finnifty',
     'channels',
     'djoser',
     'accounts',
