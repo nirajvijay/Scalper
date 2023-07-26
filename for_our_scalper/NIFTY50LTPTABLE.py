@@ -41,6 +41,7 @@ def insert_tick(msg):
     for tick in msg:
         try:
             ltp = tick["ltp"]
+            vol = tick["min_volume"]
             ltt = dt.datetime.fromtimestamp(tick["timestamp"])
             tok = "nifty50ltp"
             data = (ltt, ltp, vol)
