@@ -33,6 +33,10 @@ export default function Buycard({ lastTradedPrice }) {
   const [selectedceqty, setSelectedCeQty] = useState("");
   const [symbolceselected, setSymbolCeSelected] = useState("");
 
+  const [tradeProfits, setTradeProfits] = useState([]);
+  const [accumulatedProfit, setAccumulatedProfit] = useState(0);
+  const [isTradeCompleted, setIsTradeCompleted] = useState(false);
+
   /* Add a flag to indicate whether to start real-time PNL calculation */
   const [startRealTimePnlCalc, setStartRealTimePnlCalc] = useState(false);
 
@@ -267,6 +271,13 @@ export default function Buycard({ lastTradedPrice }) {
       const calculatedPnlbeforerounding =
         (lasttradedpriceforce - optionsbuyprice) * selectedceqty - 40;
       const calculatedPnl = calculatedPnlbeforerounding.toFixed(2);
+
+      if (isTradeCompleted) {
+        // If the trade is completed, update accumulated profit
+        setAccumulatedProfit(prevProfit => prevProfit + parseFloat(calculatedPnl));
+        
+      }
+
       setOptionsPnl(calculatedPnl);
     } else {
       setOptionsPnl("0");
@@ -314,6 +325,8 @@ export default function Buycard({ lastTradedPrice }) {
         "http://127.0.0.1:8000/api/placeOrder/",
         orderData
       );
+      setIsTradeCompleted(false);
+      setStartRealTimePnlCalc(true);
 
       console.log(response.data);
       if (response.data.s === "ok") {
@@ -362,8 +375,23 @@ export default function Buycard({ lastTradedPrice }) {
         orderData
       );
       toast.success("Order SuccessFull:SELL ");
+
+       // Calculate the profit for the current trade
+      const currentTradeProfit =
+      ((lasttradedpriceforce - optionsbuyprice) * selectedceqty - 40).toFixed(2);
+
+      // Update the accumulated profit by adding the profit from the current trade
+      setAccumulatedProfit(prevProfit => prevProfit + parseFloat(currentTradeProfit));
+
+      // Add the final profit of the current trade to the tradeProfits state
+      setTradeProfits(prevProfits => [...prevProfits, parseFloat(currentTradeProfit)]);
+
       setOptionsBuyPrice("");
       setStartRealTimePnlCalc(false);
+
+       // Set the trade completion flag to true
+      setIsTradeCompleted(true);
+
       // Uncheck the stoploss checkbox
       setStoplossChecked(false);
       console.log(response.data);
@@ -493,8 +521,9 @@ export default function Buycard({ lastTradedPrice }) {
       <button className="sellbuttonce noselect" onClick={handleSellBtClick}>
         SELL
       </button>
-
+      {/* options single pnl */}
       <h2 className="pnlofce">{optionspnl}</h2>
+      <h2 className="accumulatedpnl">{accumulatedProfit}</h2>
       <label for="LIMIT" className="labellimit">
         LIMIT
       </label>
