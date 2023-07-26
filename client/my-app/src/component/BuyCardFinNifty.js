@@ -36,32 +36,32 @@ export default function Buycard({ lastTradedPrice }) {
   /* for OrderBook */
 
   /* getting the thursday dates */
-  function getNextThursdays() {
-    const today = new Date();
-    const daysUntilNextThursday = (4 - today.getDay() + 7) % 7;
-    const nextThursdays = [];
+  function getNextTuesdays() {
+  const today = new Date();
+  const daysUntilNextTuesday = (2 - today.getDay() + 7) % 7;
+  const nextTuesdays = [];
 
-    for (let i = 0; i < 3; i++) {
-      const nextThursday = new Date(
-        today.getFullYear(),
-        today.getMonth(),
-        today.getDate() + daysUntilNextThursday + i * 7
-      );
-      nextThursdays.push(nextThursday);
-    }
-
-    return nextThursdays;
+  for (let i = 0; i < 3; i++) {
+    const nextTuesday = new Date(
+      today.getFullYear(),
+      today.getMonth(),
+      today.getDate() + daysUntilNextTuesday + i * 7
+    );
+    nextTuesdays.push(nextTuesday);
   }
+
+  return nextTuesdays;
+}
 
   function renderOptions() {
-    const nextThursdays = getNextThursdays();
-    const options = nextThursdays.map((thursday) => (
-      <option key={thursday.toISOString()} value={thursday.toISOString()}>
-        {formatDate(thursday)}
-      </option>
-    ));
-    return options;
-  }
+  const nextTuesdays = getNextTuesdays();
+  const options = nextTuesdays.map((tuesday) => (
+    <option key={tuesday.toISOString()} value={tuesday.toISOString()}>
+      {formatDate(tuesday)}
+    </option>
+  ));
+  return options;
+}
 
   /* getting strike prices from django */
 
@@ -387,7 +387,7 @@ export default function Buycard({ lastTradedPrice }) {
       <label className="labelbuy" htmlFor="callstrike">
         EXP
       </label>
-      <Options nextThursdays={getNextThursdays()} />
+      <Options nextThursdays={getNextTuesdays()} />
       <label className="labelQuantity" htmlFor="callstrike">
         QTY:
       </label>
