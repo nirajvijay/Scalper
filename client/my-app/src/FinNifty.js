@@ -28,7 +28,7 @@ const FinNifty = () => {
   const fetchLastTradedPrice = async () => {
     try {
       const response = await axios.get(
-        "http://127.0.0.1:8000/api/last_traded_price/"
+        "http://127.0.0.1:8000/api/last_traded_price_finnifty/"
       );
       setLastTradedPrice(response.data.latest_price);
     } catch (error) {
