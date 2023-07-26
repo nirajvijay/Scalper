@@ -508,8 +508,20 @@ export default function Buycard({ lastTradedPrice }) {
       </label>
       <input type="checkbox" id="LIMIT" name="LIMIT"></input>
       <input type="number" id="LIMITenter" name="LIMIT"></input>
-      <h1 className="niftybuyprice">FinNiftyBUY:{niftybuyprice}</h1>
-      <h1 className="optionsbuyprice">OPTIONSBUY:{optionsbuyprice}</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>NIFTYBUY</th>
+            <th>OPTIONSBUY</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{niftybuyprice}</td>
+            <td>{optionsbuyprice}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   );
 }
