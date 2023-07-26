@@ -228,6 +228,10 @@ button:hover {
   position: relative;
   left: 20px;
 }
+.accumulatedpnl{
+  position: absolute;
+  top: 550px;
+}
 
 /* SimpleTable.css */
 table {

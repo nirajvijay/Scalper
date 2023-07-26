@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 import OrderBook from "../OrderBook";
 import axios from "axios";
 
-export default function Buycard({ lastTradedPrice }) {
+export default function Buycard({ lastTradedPrice, onPnlFromCeUpdate }) {
   /* 
   use state initialization */
   const [strikePrices, setStrikePrices] = useState([]);
@@ -272,12 +272,6 @@ export default function Buycard({ lastTradedPrice }) {
         (lasttradedpriceforce - optionsbuyprice) * selectedceqty - 40;
       const calculatedPnl = calculatedPnlbeforerounding.toFixed(2);
 
-      if (isTradeCompleted) {
-        // If the trade is completed, update accumulated profit
-        setAccumulatedProfit(prevProfit => prevProfit + parseFloat(calculatedPnl));
-        
-      }
-
       setOptionsPnl(calculatedPnl);
     } else {
       setOptionsPnl("0");
@@ -325,7 +319,7 @@ export default function Buycard({ lastTradedPrice }) {
         "http://127.0.0.1:8000/api/placeOrder/",
         orderData
       );
-      setIsTradeCompleted(false);
+
       setStartRealTimePnlCalc(true);
 
       console.log(response.data);
@@ -376,21 +370,25 @@ export default function Buycard({ lastTradedPrice }) {
       );
       toast.success("Order SuccessFull:SELL ");
 
-       // Calculate the profit for the current trade
-      const currentTradeProfit =
-      ((lasttradedpriceforce - optionsbuyprice) * selectedceqty - 40).toFixed(2);
+      // Calculate the profit for the current trade
+      const currentTradeProfit = (
+        (lasttradedpriceforce - optionsbuyprice) * selectedceqty -
+        40
+      ).toFixed(2);
 
       // Update the accumulated profit by adding the profit from the current trade
-      setAccumulatedProfit(prevProfit => prevProfit + parseFloat(currentTradeProfit));
+      setAccumulatedProfit(
+        (prevProfit) => prevProfit + parseFloat(currentTradeProfit)
+      );
 
       // Add the final profit of the current trade to the tradeProfits state
-      setTradeProfits(prevProfits => [...prevProfits, parseFloat(currentTradeProfit)]);
+      setTradeProfits((prevProfits) => [
+        ...prevProfits,
+        parseFloat(currentTradeProfit),
+      ]);
 
       setOptionsBuyPrice("");
       setStartRealTimePnlCalc(false);
-
-       // Set the trade completion flag to true
-      setIsTradeCompleted(true);
 
       // Uncheck the stoploss checkbox
       setStoplossChecked(false);
@@ -399,6 +397,10 @@ export default function Buycard({ lastTradedPrice }) {
       console.log(error);
     }
   }
+  useEffect(() => {
+    // Call the callback function and pass the data to the parent component
+    onPnlFromCeUpdate(accumulatedProfit);
+  }, [accumulatedProfit]);
 
   /*  using arrow keys and enter key function activation */
 
@@ -523,7 +525,7 @@ export default function Buycard({ lastTradedPrice }) {
       </button>
       {/* options single pnl */}
       <h2 className="pnlofce">{optionspnl}</h2>
-      <h2 className="accumulatedpnl">{accumulatedProfit}</h2>
+
       <label for="LIMIT" className="labellimit">
         LIMIT
       </label>

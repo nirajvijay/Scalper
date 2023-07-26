@@ -11,6 +11,12 @@ import bearImage from "./bear.png";
 import TableComponent from "./component/TableComponent";
 const Nifty50 = () => {
   const [lastTradedPrice, setLastTradedPrice] = useState(null);
+  const [pnlfromce, setPnlFromCe] = useState(null);
+
+  // Callback function to receive data from the child component
+  const handlePnlFromCe = (cepnl) => {
+    setPnlFromCe(cepnl);
+  };
 
   /* getting the accesstoken from server */
 
@@ -66,13 +72,18 @@ const Nifty50 = () => {
         <div className="ltp">
           <h2 className="ltpheading">NIFTY50</h2>
           <h2 className="ltpview">{lastTradedPrice}</h2>
+          <h2 className="totalpnl">TOTAL PNL:{pnlfromce}</h2>
         </div>
 
-        <Buycard lastTradedPrice={lastTradedPrice} />
+        <Buycard
+          lastTradedPrice={lastTradedPrice}
+          onPnlFromCeUpdate={handlePnlFromCe}
+        />
         <Sellcard lastTradedPrice={lastTradedPrice} />
         <button className="closepl" onClick={closeAllPosition}>
           CLOSE/PL
         </button>
+
         <button className="cancelor">CANCEL/OR</button>
         <button className="generate_access" onClick={handleGenerateAccess}>
           TOKEN
